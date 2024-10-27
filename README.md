@@ -1,3 +1,5 @@
+<img src="Wild_hunter_gameplay.png" width="100%" align="center">
+
 # Introduction
 `Wild-hunter` is a 2D videogame with 8-bit design.
 # History
