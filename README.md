@@ -22,7 +22,7 @@
 # Mechanics
 ## Movement
 You can move horizontally  with `A` and `D` and dash with `Space` (with cooldown).
-
+## Attack
 Albin can shoot arrows with `←` and `→` arrows. Albin can't move while is aiming.
-
+## Special attack
 Albin can also shoot *sceptral arrows* pressing `Space` when is not moving.
